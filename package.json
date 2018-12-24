@@ -1,5 +1,5 @@
 {
-  "name": "url-relative",
+  "name": "@aredridel/url-relative",
   "author": "jden <jason@denizac.org>",
   "version": "1.0.0",
   "description": "calculate RFC 1808 relative URLs (inverse of url.resolve)",
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "tap --tap test/*"
   },
-  "repository": "git@github.com:jden/url-relative.git",
+  "repository": "git@github.com:aredridel/url-relative.git",
   "license": "ISC",
   "readmeFilename": "README.md",
   "devDependencies": {
