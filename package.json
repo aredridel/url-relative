@@ -1,7 +1,7 @@
 {
   "name": "@aredridel/url-relative",
   "author": "jden <jason@denizac.org>",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "calculate RFC 1808 relative URLs (inverse of url.resolve)",
   "keywords": [
     "url",
